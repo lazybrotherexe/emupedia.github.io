@@ -4503,7 +4503,7 @@
 			"height": 400,
 			"requires": {
 				"webassembly": {
-					"link": "https://emupedia.net/emupedia-game-doom2/"
+					"link": "/emupedia-game-doom2/"
 				}
 			},
 			"newtab": true,
