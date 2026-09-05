@@ -1,5 +1,9 @@
 export async function onRequest(context) {
-  const path = context.params.path || "";
+  let path = context.params.path || "";
+
+  if (Array.isArray(path)) {
+    path = path.join("/");
+  }
 
   const allowedPrefixes = [
     "emupedia-game-",
@@ -25,7 +29,19 @@ export async function onRequest(context) {
 
   targetUrl.search = originalUrl.search;
 
-  const request = new Request(targetUrl.toString(), context.request);
+  const headers = new Headers(context.request.headers);
+  headers.delete("host");
+
+  const request = new Request(targetUrl.toString(), {
+    method: context.request.method,
+    headers,
+    body:
+      context.request.method === "GET" ||
+      context.request.method === "HEAD"
+        ? undefined
+        : context.request.body,
+    redirect: "follow"
+  });
 
   return fetch(request);
 }
