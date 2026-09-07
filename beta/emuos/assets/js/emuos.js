@@ -2112,12 +2112,16 @@
 	};
 
 	EmuOS.prototype._resolveLink = function(link) {
-		if (typeof link === 'undefined' || link === null || link === '') {
-			return '';
-		}
+    if (typeof link === 'undefined' || link === null || link === '') {
+        return '';
+    }
 
-		return link.indexOf('http') === 0 ? link : root + link;
-	};
+    if (link.indexOf('/emupedia-') === 0) {
+        return 'https://emupedia.net' + link;
+    }
+
+    return link.indexOf('http') === 0 ? link : root + link;
+};
 
 	EmuOS.prototype._launchFolderItem = function(item, folderPath) {
 		var self = this;
