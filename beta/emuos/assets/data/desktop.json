@@ -194,7 +194,8 @@
 			"title": "External Website",
 			"icon": "assets/images/icons/desktop/nightvibeonline",
 			"link": "https://cojmar.github.io/night-vibe-online/",
-			"credits": "HTML5 Port<hr />Website: <a href=\"https://cojmar.github.io/night-vibe-online/\" target=\"_blank\">cojmar.github.io/night-vibe-online</a><br /><br />Author: <a href=\"https://github.com/cojmar\" target=\"_blank\">https://github.com/cojmar</a><br />Repository: <a href=\"https://github.com/cojmar/night-vibe-online\" target=\"_blank\">github.com/cojmar/night-vibe-online</a>",
+			"credits": "HTML5 Port<hr />Website: <a href=\"https://cojmar.github.io/night-vibe-online/\" target=\"_blank\">cojmar.github.io/night-vibe-online</a><br /><br />Author: <a href=\"https://github.com/cojmar\" target=\"_blank\">https://github.com/cojmar</a><br />Repository: <a href=\"https://github.com/cojmar/night-vibe-online\"
+ target=\"_blank\">github.com/cojmar/night-vibe-online</a>",
 			"width": 1090,
 			"height": 780,
 			"new": true,
@@ -348,7 +349,8 @@
 				"link": "https://www.pouet.net/prod.php?which=104584",
 				"credits": "Group: Jumalauta<br />Released: Jul 2025<br />Pou&euml;t: <a href=\"https://www.pouet.net/prod.php?which=104584\" target=\"_blank\">pouet.net</a>",
 				"width": 960,
-				"height": 540,
+				"height":
+ 540,
 				"newtab": true,
 				"share": true
 			} ,
@@ -542,7 +544,8 @@
 			{
 				"name": "Batman Rises",
 				"title": "YouTube",
-				"icon": "assets/images/icons/desktop/joystick",
+				"icon":
+ "assets/images/icons/desktop/joystick",
 				"link": "https://www.youtube-nocookie.com/embed/2jciCr8zEhw?autoplay=1&rel=0&modestbranding=1",
 				"credits": "Group: Batman Group<br />Released: Dec 2022<br />Pou&euml;t: <a href=\"https://www.pouet.net/prod.php?which=93011\" target=\"_blank\">pouet.net</a><br />YouTube: <a href=\"https://www.youtube.com/watch?v=2jciCr8zEhw\" target=\"_blank\">youtube.com/watch?v=2jciCr8zEhw</a>",
 				"width": 960,
@@ -731,7 +734,8 @@
 				"title": "YouTube",
 				"icon": "assets/images/icons/desktop/joystick",
 				"link": "https://www.youtube-nocookie.com/embed/fBMHGeQh6to?autoplay=1&rel=0&modestbranding=1",
-				"credits": "Group: mfx<br />Released: May 2020<br />Pou&euml;t: <a href=\"https://www.pouet.net/prod.php?which=85688\" target=\"_blank\">pouet.net</a><br />YouTube: <a href=\"https://www.youtube.com/watch?v=fBMHGeQh6to\" target=\"_blank\">youtube.com/watch?v=fBMHGeQh6to</a>",
+				"credits": "Group: mfx<br />Released: May 2020<br />Pou&euml;t: <a href=\"https://www.pouet.net/prod.php?which=85688\" target=\"_blank\">pouet.net</a><br
+ />YouTube: <a href=\"https://www.youtube.com/watch?v=fBMHGeQh6to\" target=\"_blank\">youtube.com/watch?v=fBMHGeQh6to</a>",
 				"width": 960,
 				"height": 540,
 				"newtab": true,
@@ -793,7 +797,7 @@
 				"share": true
 			} ,
 			{
-				"name": "쉿 (hush)",
+				"name": "ì‰¿ (hush)",
 				"title": "YouTube",
 				"icon": "assets/images/icons/desktop/joystick",
 				"link": "https://www.youtube-nocookie.com/embed/VITu-pbLhys?autoplay=1&rel=0&modestbranding=1",
@@ -919,7 +923,8 @@
 				"icon": "assets/images/icons/desktop/joystick",
 				"link": "https://www.youtube-nocookie.com/embed/ncdA3t_vzF8?autoplay=1&rel=0&modestbranding=1",
 				"credits": "Group: Prismbeings<br />Released: Apr 2018<br />Pou&euml;t: <a href=\"https://www.pouet.net/prod.php?which=75720\" target=\"_blank\">pouet.net</a><br />YouTube: <a href=\"https://www.youtube.com/watch?v=ncdA3t_vzF8\" target=\"_blank\">youtube.com/watch?v=ncdA3t_vzF8</a>",
-				"width": 960,
+				"width":
+ 960,
 				"height": 540,
 				"newtab": true,
 				"share": true
@@ -1112,7 +1117,8 @@
 				"share": true
 			} ,
 			{
-				"name": "No ambition",
+				"name":
+ "No ambition",
 				"title": "YouTube",
 				"icon": "assets/images/icons/desktop/joystick",
 				"link": "https://www.youtube-nocookie.com/embed/EOYsP0_YJ0A?autoplay=1&rel=0&modestbranding=1",
@@ -1300,7 +1306,8 @@
 			} ,
 			{
 				"name": "Mrs Escher's Nightmare",
-				"title": "YouTube",
+				"title":
+ "YouTube",
 				"icon": "assets/images/icons/desktop/joystick",
 				"link": "https://www.youtube-nocookie.com/embed/G7dpLcIaUTs?autoplay=1&rel=0&modestbranding=1",
 				"credits": "Group: Andromeda Software Development<br />Released: Jul 2014<br />Pou&euml;t: <a href=\"https://www.pouet.net/prod.php?which=63809\" target=\"_blank\">pouet.net</a><br />YouTube: <a href=\"https://www.youtube.com/watch?v=G7dpLcIaUTs\" target=\"_blank\">youtube.com/watch?v=G7dpLcIaUTs</a>",
@@ -1489,7 +1496,8 @@
 				"name": "Fermion",
 				"title": "YouTube",
 				"icon": "assets/images/icons/desktop/joystick",
-				"link": "https://www.youtube-nocookie.com/embed/BH9DV1lsfbk?autoplay=1&rel=0&modestbranding=1",
+				"link":
+ "https://www.youtube-nocookie.com/embed/BH9DV1lsfbk?autoplay=1&rel=0&modestbranding=1",
 				"credits": "Group: Kewlers<br />Released: Aug 2011<br />Pou&euml;t: <a href=\"https://www.pouet.net/prod.php?which=57459\" target=\"_blank\">pouet.net</a><br />YouTube: <a href=\"https://www.youtube.com/watch?v=BH9DV1lsfbk\" target=\"_blank\">youtube.com/watch?v=BH9DV1lsfbk</a>",
 				"width": 960,
 				"height": 540,
@@ -1677,7 +1685,8 @@
 				"title": "YouTube",
 				"icon": "assets/images/icons/desktop/joystick",
 				"link": "https://www.youtube-nocookie.com/embed/pmw87w7i6rQ?autoplay=1&rel=0&modestbranding=1",
-				"credits": "Group: Andromeda Software Development<br />Released: Apr 2009<br />Pou&euml;t: <a href=\"https://www.pouet.net/prod.php?which=52931\" target=\"_blank\">pouet.net</a><br />YouTube: <a href=\"https://www.youtube.com/watch?v=pmw87w7i6rQ\" target=\"_blank\">youtube.com/watch?v=pmw87w7i6rQ</a>",
+				"credits":
+ "Group: Andromeda Software Development<br />Released: Apr 2009<br />Pou&euml;t: <a href=\"https://www.pouet.net/prod.php?which=52931\" target=\"_blank\">pouet.net</a><br />YouTube: <a href=\"https://www.youtube.com/watch?v=pmw87w7i6rQ\" target=\"_blank\">youtube.com/watch?v=pmw87w7i6rQ</a>",
 				"width": 960,
 				"height": 540,
 				"newtab": true,
@@ -1864,7 +1873,8 @@
 				"title": "YouTube",
 				"icon": "assets/images/icons/desktop/joystick",
 				"link": "https://www.youtube-nocookie.com/embed/L_L7jq7lr2w?autoplay=1&rel=0&modestbranding=1",
-				"credits": "Group: Excess<br />Released: Aug 2007<br />Pou&euml;t: <a href=\"https://www.pouet.net/prod.php?which=31587\" target=\"_blank\">pouet.net</a><br />YouTube: <a href=\"https://www.youtube.com/watch?v=L_L7jq7lr2w\" target=\"_blank\">youtube.com/watch?v=L_L7jq7lr2w</a>",
+				"credits": "Group: Excess<br />Released: Aug 2007<br />Pou&euml;t: <a href=\"https://www.pouet.net/prod.php?which=31587\"
+ target=\"_blank\">pouet.net</a><br />YouTube: <a href=\"https://www.youtube.com/watch?v=L_L7jq7lr2w\" target=\"_blank\">youtube.com/watch?v=L_L7jq7lr2w</a>",
 				"width": 960,
 				"height": 540,
 				"newtab": true,
@@ -2051,7 +2061,8 @@
 				"title": "YouTube",
 				"icon": "assets/images/icons/desktop/joystick",
 				"link": "https://www.youtube-nocookie.com/embed/l4BrzmTGydY?autoplay=1&rel=0&modestbranding=1",
-				"credits": "Group: Plastic<br />Released: Aug 2005<br />Pou&euml;t: <a href=\"https://www.pouet.net/prod.php?which=18766\" target=\"_blank\">pouet.net</a><br />YouTube: <a href=\"https://www.youtube.com/watch?v=l4BrzmTGydY\" target=\"_blank\">youtube.com/watch?v=l4BrzmTGydY</a>",
+				"credits": "Group: Plastic<br />Released: Aug 2005<br />Pou&euml;t: <a href=\"https://www.pouet.net/prod.php?which=18766\" target=\"_blank\">pouet.net</a><br />YouTube:
+ <a href=\"https://www.youtube.com/watch?v=l4BrzmTGydY\" target=\"_blank\">youtube.com/watch?v=l4BrzmTGydY</a>",
 				"width": 960,
 				"height": 540,
 				"newtab": true,
@@ -2239,7 +2250,8 @@
 				"icon": "assets/images/icons/desktop/joystick",
 				"link": "https://www.youtube-nocookie.com/embed/WE4jrw0mz3k?autoplay=1&rel=0&modestbranding=1",
 				"credits": "Group: Ephidrena<br />Released: Jun 2004<br />Pou&euml;t: <a href=\"https://www.pouet.net/prod.php?which=12666\" target=\"_blank\">pouet.net</a><br />YouTube: <a href=\"https://www.youtube.com/watch?v=WE4jrw0mz3k\" target=\"_blank\">youtube.com/watch?v=WE4jrw0mz3k</a>",
-				"width": 960,
+				"width":
+ 960,
 				"height": 540,
 				"newtab": true,
 				"share": true
@@ -2322,7 +2334,7 @@
 				"share": true
 			} ,
 			{
-				"name": "die Änderung",
+				"name": "die Ã„nderung",
 				"title": "YouTube",
 				"icon": "assets/images/icons/desktop/joystick",
 				"link": "https://www.youtube-nocookie.com/embed/vBuD4HI_9oA?autoplay=1&rel=0&modestbranding=1",
@@ -2426,7 +2438,8 @@
 				"icon": "assets/images/icons/desktop/joystick",
 				"link": "https://www.youtube-nocookie.com/embed/qv66S2Pux4Q?autoplay=1&rel=0&modestbranding=1",
 				"credits": "Group: Complex<br />Released: Aug 2003<br />Pou&euml;t: <a href=\"https://www.pouet.net/prod.php?which=10586\" target=\"_blank\">pouet.net</a><br />YouTube: <a href=\"https://www.youtube.com/watch?v=qv66S2Pux4Q\" target=\"_blank\">youtube.com/watch?v=qv66S2Pux4Q</a>",
-				"width": 960,
+				"width":
+ 960,
 				"height": 540,
 				"newtab": true,
 				"share": true
@@ -2617,7 +2630,8 @@
 				"height": 540,
 				"newtab": true,
 				"share": true
-			} ,
+			}
+ ,
 			{
 				"name": "Chimera",
 				"title": "YouTube",
@@ -2810,7 +2824,8 @@
 				"title": "YouTube",
 				"icon": "assets/images/icons/desktop/joystick",
 				"link": "https://www.youtube-nocookie.com/embed/mwz3OwYUAOM?autoplay=1&rel=0&modestbranding=1",
-				"credits": "Group: kolor<br />Released: Nov 2001<br />Pou&euml;t: <a href=\"https://www.pouet.net/prod.php?which=4103\" target=\"_blank\">pouet.net</a><br />YouTube: <a href=\"https://www.youtube.com/watch?v=mwz3OwYUAOM\" target=\"_blank\">youtube.com/watch?v=mwz3OwYUAOM</a>",
+				"credits":
+ "Group: kolor<br />Released: Nov 2001<br />Pou&euml;t: <a href=\"https://www.pouet.net/prod.php?which=4103\" target=\"_blank\">pouet.net</a><br />YouTube: <a href=\"https://www.youtube.com/watch?v=mwz3OwYUAOM\" target=\"_blank\">youtube.com/watch?v=mwz3OwYUAOM</a>",
 				"width": 960,
 				"height": 540,
 				"newtab": true,
@@ -2997,7 +3012,8 @@
 				"title": "YouTube",
 				"icon": "assets/images/icons/desktop/joystick",
 				"link": "https://www.youtube-nocookie.com/embed/xiHIkitXyPc?autoplay=1&rel=0&modestbranding=1",
-				"credits": "Group: Damage<br />Released: Dec 2000<br />Pou&euml;t: <a href=\"https://www.pouet.net/prod.php?which=1232\" target=\"_blank\">pouet.net</a><br />YouTube: <a href=\"https://www.youtube.com/watch?v=xiHIkitXyPc\" target=\"_blank\">youtube.com/watch?v=xiHIkitXyPc</a>",
+				"credits": "Group: Damage<br />Released: Dec 2000<br />Pou&euml;t: <a href=\"https://www.pouet.net/prod.php?which=1232\" target=\"_blank\">pouet.net</a><br />YouTube:
+ <a href=\"https://www.youtube.com/watch?v=xiHIkitXyPc\" target=\"_blank\">youtube.com/watch?v=xiHIkitXyPc</a>",
 				"width": 960,
 				"height": 540,
 				"newtab": true,
@@ -3193,7 +3209,8 @@
 			{
 				"name": "Mikrostrange",
 				"title": "YouTube",
-				"icon": "assets/images/icons/desktop/joystick",
+				"icon":
+ "assets/images/icons/desktop/joystick",
 				"link": "https://www.youtube-nocookie.com/embed/U9Z2ZUAysWM?autoplay=1&rel=0&modestbranding=1",
 				"credits": "Group: Haujobb<br />Released: Apr 2000<br />Pou&euml;t: <a href=\"https://www.pouet.net/prod.php?which=1092\" target=\"_blank\">pouet.net</a><br />YouTube: <a href=\"https://www.youtube.com/watch?v=U9Z2ZUAysWM\" target=\"_blank\">youtube.com/watch?v=U9Z2ZUAysWM</a>",
 				"width": 960,
@@ -3384,7 +3401,8 @@
 				"link": "https://www.youtube-nocookie.com/embed/xIVxxxC-Vgo?autoplay=1&rel=0&modestbranding=1",
 				"credits": "Group: Purple<br />Released: Jul 1999<br />Pou&euml;t: <a href=\"https://www.pouet.net/prod.php?which=20\" target=\"_blank\">pouet.net</a><br />YouTube: <a href=\"https://www.youtube.com/watch?v=xIVxxxC-Vgo\" target=\"_blank\">youtube.com/watch?v=xIVxxxC-Vgo</a>",
 				"width": 960,
-				"height": 540,
+				"height":
+ 540,
 				"newtab": true,
 				"share": true
 			} ,
@@ -3580,7 +3598,8 @@
 				"title": "YouTube",
 				"icon": "assets/images/icons/desktop/joystick",
 				"link": "https://www.youtube-nocookie.com/embed/kFVrQpxVUkY?autoplay=1&rel=0&modestbranding=1",
-				"credits": "Group: Requiem<br />Released: Aug 1998<br />Pou&euml;t: <a href=\"https://www.pouet.net/prod.php?which=6932\" target=\"_blank\">pouet.net</a><br />YouTube: <a href=\"https://www.youtube.com/watch?v=kFVrQpxVUkY\" target=\"_blank\">youtube.com/watch?v=kFVrQpxVUkY</a>",
+				"credits":
+ "Group: Requiem<br />Released: Aug 1998<br />Pou&euml;t: <a href=\"https://www.pouet.net/prod.php?which=6932\" target=\"_blank\">pouet.net</a><br />YouTube: <a href=\"https://www.youtube.com/watch?v=kFVrQpxVUkY\" target=\"_blank\">youtube.com/watch?v=kFVrQpxVUkY</a>",
 				"width": 960,
 				"height": 540,
 				"newtab": true,
@@ -3767,7 +3786,8 @@
 				"title": "YouTube",
 				"icon": "assets/images/icons/desktop/joystick",
 				"link": "https://www.youtube-nocookie.com/embed/9mldiyWS7OE?autoplay=1&rel=0&modestbranding=1",
-				"credits": "Group: Pulse<br />Released: Aug 1997<br />Pou&euml;t: <a href=\"https://www.pouet.net/prod.php?which=85\" target=\"_blank\">pouet.net</a><br />YouTube: <a href=\"https://www.youtube.com/watch?v=9mldiyWS7OE\" target=\"_blank\">youtube.com/watch?v=9mldiyWS7OE</a>",
+				"credits": "Group: Pulse<br />Released: Aug 1997<br />Pou&euml;t: <a href=\"https://www.pouet.net/prod.php?which=85\" target=\"_blank\">pouet.net</a><br />YouTube:
+ <a href=\"https://www.youtube.com/watch?v=9mldiyWS7OE\" target=\"_blank\">youtube.com/watch?v=9mldiyWS7OE</a>",
 				"width": 960,
 				"height": 540,
 				"newtab": true,
@@ -3955,7 +3975,8 @@
 				"icon": "assets/images/icons/desktop/joystick",
 				"link": "https://www.youtube-nocookie.com/embed/s3omKoN5sak?autoplay=1&rel=0&modestbranding=1",
 				"credits": "Group: orange<br />Released: Dec 1996<br />Pou&euml;t: <a href=\"https://www.pouet.net/prod.php?which=1155\" target=\"_blank\">pouet.net</a><br />YouTube: <a href=\"https://www.youtube.com/watch?v=s3omKoN5sak\" target=\"_blank\">youtube.com/watch?v=s3omKoN5sak</a>",
-				"width": 960,
+				"width":
+ 960,
 				"height": 540,
 				"newtab": true,
 				"share": true
@@ -4150,7 +4171,8 @@
 			{
 				"name": "Solstice",
 				"title": "YouTube",
-				"icon": "assets/images/icons/desktop/joystick",
+				"icon":
+ "assets/images/icons/desktop/joystick",
 				"link": "https://www.youtube-nocookie.com/embed/2CzMmnO0bYk?autoplay=1&rel=0&modestbranding=1",
 				"credits": "Group: Valhalla<br />Released: Nov 1995<br />Pou&euml;t: <a href=\"https://www.pouet.net/prod.php?which=106\" target=\"_blank\">pouet.net</a><br />YouTube: <a href=\"https://www.youtube.com/watch?v=2CzMmnO0bYk\" target=\"_blank\">youtube.com/watch?v=2CzMmnO0bYk</a>",
 				"width": 960,
@@ -4339,7 +4361,8 @@
 				"title": "YouTube",
 				"icon": "assets/images/icons/desktop/joystick",
 				"link": "https://www.youtube-nocookie.com/embed/J2r7-ygXOzo?autoplay=1&rel=0&modestbranding=1",
-				"credits": "Group: Spaceballs<br />Released: Dec 1992<br />Pou&euml;t: <a href=\"https://www.pouet.net/prod.php?which=99\" target=\"_blank\">pouet.net</a><br />YouTube: <a href=\"https://www.youtube.com/watch?v=J2r7-ygXOzo\" target=\"_blank\">youtube.com/watch?v=J2r7-ygXOzo</a>",
+				"credits":
+ "Group: Spaceballs<br />Released: Dec 1992<br />Pou&euml;t: <a href=\"https://www.pouet.net/prod.php?which=99\" target=\"_blank\">pouet.net</a><br />YouTube: <a href=\"https://www.youtube.com/watch?v=J2r7-ygXOzo\" target=\"_blank\">youtube.com/watch?v=J2r7-ygXOzo</a>",
 				"width": 960,
 				"height": 540,
 				"newtab": true,
@@ -4403,7 +4426,7 @@
 			"title": "Unfinished Game",
 			"icon": "assets/images/icons/desktop/red-alert2",
 			"link": "https://emupedia.net/emupedia-game-ra2/",
-			"credits": "HTML5 Port<hr />Website: <a href=\"https://ra2html5.surge.sh/\" target=\"_blank\">ra2html5.surge.sh</a><br /><br />Author: Võ Thành Đạt<br /><br />All other assets<hr />Copyright Electronic Arts (formerly Westwood Studios)",
+			"credits": "HTML5 Port<hr />Website: <a href=\"https://ra2html5.surge.sh/\" target=\"_blank\">ra2html5.surge.sh</a><br /><br />Author: VÃµ ThÃ nh Ä�áº¡t<br /><br />All other assets<hr />Copyright Electronic Arts (formerly Westwood Studios)",
 			"disclaimer": true,
 			"width": 900,
 			"height": 550,
@@ -4465,7 +4488,8 @@
 			"name": "Wolfenstein 3D",
 			"icon": "assets/images/icons/desktop/wolfenstein-3d",
 			"link": "https://emupedia.net/emupedia-game-wolfenstein-3d/",
-			"credits": "HTML5 Port<hr />Website: <a href=\"http://users.atw.hu/wolf3d/\" target=\"_blank\">users.atw.hu/wolf3d</a><br /><br />Author: <a href=\"https://github.com/lazarv\" target=\"_blank\">github.com/lazarv</a><br />License: <a href=\"http://users.atw.hu/wolf3d/COPYING.txt\" target=\"_blank\">GPL-2.0</a><br /><br />HTML Port<hr />Author: <a href=\"https://github.com/id-Software\" target=\"_blank\">github.com/id-Software</a><br />Repository: <a href=\"https://github.com/id-Software/wolf3d-browser\" target=\"_blank\">github.com/id-Software/wolf3d-browser</a><br />License: <a href=\"https://github.com/id-Software/wolf3d-browser/blob/master/COPYING.txt\" target=\"_blank\">GPL-2.0</a><br /><br />Original Project<hr />Author: <a href=\"https://github.com/id-Software\" target=\"_blank\">github.com/id-Software</a><br />Repository: <a href=\"https://github.com/id-Software/wolf3d\" target=\"_blank\">github.com/id-Software/wolf3d</a><br />License: <a href=\"https://github.com/id-Software/wolf3d/blob/master/WOLFSRC/README/LICENSE.DOC\" target=\"_blank\">LUSLA</a><br /><br />All other assets<hr />Copyright Microsoft (formerly ZeniMax Media, Bethesda Softworks, id Software)",
+			"credits": "HTML5 Port<hr />Website: <a href=\"http://users.atw.hu/wolf3d/\" target=\"_blank\">users.atw.hu/wolf3d</a><br /><br />Author: <a href=\"https://github.com/lazarv\" target=\"_blank\">github.com/lazarv</a><br />License: <a href=\"http://users.atw.hu/wolf3d/COPYING.txt\" target=\"_blank\">GPL-2.0</a><br /><br />HTML Port<hr />Author: <a href=\"https://github.com/id-Software\" target=\"_blank\">github.com/id-Software</a><br />Repository: <a href=\"https://github.com/id-Software/wolf3d-browser\" target=\"_blank\">github.com/id-Software/wolf3d-browser</a><br />License: <a href=\"https://github.com/id-Software/wolf3d-browser/blob/master/COPYING.txt\" target=\"_blank\">GPL-2.0</a><br /><br />Original Project<hr />Author: <a href=\"https://github.com/id-Software\" target=\"_blank\">github.com/id-Software</a><br />Repository: <a href=\"https://github.com/id-Software/wolf3d\" target=\"_blank\">github.com/id-Software/wolf3d</a><br />License: <a href=\"https://github.com/id-Software/wolf3d/blob/master/WOLFSRC/README/LICENSE.DOC\" target=\"_blank\">LUSLA</a><br
+ /><br />All other assets<hr />Copyright Microsoft (formerly ZeniMax Media, Bethesda Softworks, id Software)",
 			"disclaimer_abandoned": true,
 			"width": 640,
 			"height": 400,
@@ -4583,7 +4607,8 @@
 			"name": "Transport Tycoon Deluxe",
 			"title": "Under Development",
 			"icon": "assets/images/icons/desktop/openttd",
-			"link": "https://emupedia.net/emupedia-game-openttd/",
+			"link":
+ "https://emupedia.net/emupedia-game-openttd/",
 			"credits": "Emscripten Port<hr />Website: <a href=\"https://milek7.pl/openttd-wasm/\" target=\"_blank\">milek7.pl/openttd-wasm</a><br /><br />Original Project<hr />Website: <a href=\"https://www.openttd.org/\" target=\"_blank\">openttd.org</a><br /><br />Author: <a href=\"https://github.com/OpenTTD\" target=\"_blank\">github.com/OpenTTD</a><br />Repository: <a href=\"https://github.com/OpenTTD/OpenTTD\" target=\"_blank\">github.com/OpenTTD/OpenTTD</a><br />License: <a href=\"https://github.com/OpenTTD/OpenTTD/blob/master/COPYING.md\" target=\"_blank\">GPL-2.0</a><br /><br />All other assets<hr />Copyright Take-Two Interactive (formerly Firaxis Games, MicroProse)",
 			"disclaimer_abandoned": true,
 			"width": 900,
@@ -4692,7 +4717,8 @@
 			"name": "Solitaire Classic",
 			"icon": "assets/images/icons/desktop/solitaire",
 			"link": "https://emupedia.net/emupedia-game-solitaire/",
-			"credits": "Enhancements<hr />Website: <a href=\"https://98.js.org/programs/js-solitaire/\" target=\"_blank\">98.js.org/programs/js-solitaire</a><br /><br />Author: <a href=\"https://github.com/1j01\" target=\"_blank\">github.com/1j01</a><br />Repository: <a href=\"https://github.com/1j01/98/tree/master/programs/js-solitaire\" target=\"_blank\">github.com/1j01/98/tree/master/programs/js-solitaire</a><br /><br />HTML5 Port<hr />Website: <a href=\"https://radovanjanjic.com/js-solitaire/\" target=\"_blank\">radovanjanjic.com/js-solitaire</a><br /><br />Author: <a href=\"https://github.com/rjanjic\" target=\"_blank\">github.com/rjanjic</a><br />Repository: <a href=\"https://github.com/rjanjic/js-solitaire\" target=\"_blank\">github.com/rjanjic/js-solitaire</a><br /><br />All other assets<hr />Copyright Microsoft",
+			"credits": "Enhancements<hr />Website: <a href=\"https://98.js.org/programs/js-solitaire/\"
+ target=\"_blank\">98.js.org/programs/js-solitaire</a><br /><br />Author: <a href=\"https://github.com/1j01\" target=\"_blank\">github.com/1j01</a><br />Repository: <a href=\"https://github.com/1j01/98/tree/master/programs/js-solitaire\" target=\"_blank\">github.com/1j01/98/tree/master/programs/js-solitaire</a><br /><br />HTML5 Port<hr />Website: <a href=\"https://radovanjanjic.com/js-solitaire/\" target=\"_blank\">radovanjanjic.com/js-solitaire</a><br /><br />Author: <a href=\"https://github.com/rjanjic\" target=\"_blank\">github.com/rjanjic</a><br />Repository: <a href=\"https://github.com/rjanjic/js-solitaire\" target=\"_blank\">github.com/rjanjic/js-solitaire</a><br /><br />All other assets<hr />Copyright Microsoft",
 			"newtab": true,
 			"disclaimer": true,
 			"width": 660,
@@ -4723,7 +4749,7 @@
 			"title": "External Website",
 			"icon": "assets/images/icons/desktop/spelunky-classic",
 			"link": "https://emupedia.net/emupedia-game-spelunky-classic/",
-			"credits": "HTML5 Port<hr />Website: <a href=\"https://yancharkin.github.io/SpelunkyClassicHDhtml5/\" target=\"_blank\">yancharkin.github.io/SpelunkyClassicHDhtml5</a><br /><br />Author(s): <a href=\"https://github.com/yancharkin\" target=\"_blank\">github.com/yancharkin</a><br />Repository: <a href=\"https://github.com/yancharkin/SpelunkyClassicHDhtml5\" target=\"_blank\">yancharkin/SpelunkyClassicHDhtml5</a><br />License: <a href=\"https://github.com/yancharkin/SpelunkyClassicHDhtml5/blob/master/LICENSE\" target=\"_blank\">Spelunky® User License v1.1b</a><br /><br />Native Port<hr />Website: <a href=\"https://yancharkin.itch.io/spelunky-classic-hd\" target=\"_blank\">yancharkin.itch.io/spelunky-classic-hd</a><br /><br />Author(s): <a href=\"https://github.com/yancharkin\" target=\"_blank\">github.com/yancharkin</a><br />Repository: <a href=\"https://github.com/yancharkin/SpelunkyClassicHD\" target=\"_blank\">yancharkin/SpelunkyClassicHD</a><br />License: <a href=\"https://github.com/yancharkin/SpelunkyClassicHD/blob/master/LICENSE\" target=\"_blank\">Spelunky® User License v1.1b</a><br /><br />Original Project<hr />Website: <a href=\"https://spelunkyworld.com/original.html\" target=\"_blank\">spelunkyworld.com/original.html</a><br /><br />Source Code: <a href=\"http://www.derekyu.com/games/spelunky_1_1_src.zip\" target=\"_blank\">derekyu.com/games/spelunky_1_1_src.zip</a><br />License: <a href=\"http://www.spelunkyworld.com/files/COPYING.txt\" target=\"_blank\">Spelunky® User License v1.1b</a><br /><br />Engine<hr />Website: <a href=\"https://gamemaker.io/\" target=\"_blank\">gamemaker.io</a><br /><br />All other assets<hr />Copyright Mossmouth, LLC",
+			"credits": "HTML5 Port<hr />Website: <a href=\"https://yancharkin.github.io/SpelunkyClassicHDhtml5/\" target=\"_blank\">yancharkin.github.io/SpelunkyClassicHDhtml5</a><br /><br />Author(s): <a href=\"https://github.com/yancharkin\" target=\"_blank\">github.com/yancharkin</a><br />Repository: <a href=\"https://github.com/yancharkin/SpelunkyClassicHDhtml5\" target=\"_blank\">yancharkin/SpelunkyClassicHDhtml5</a><br />License: <a href=\"https://github.com/yancharkin/SpelunkyClassicHDhtml5/blob/master/LICENSE\" target=\"_blank\">SpelunkyÂ® User License v1.1b</a><br /><br />Native Port<hr />Website: <a href=\"https://yancharkin.itch.io/spelunky-classic-hd\" target=\"_blank\">yancharkin.itch.io/spelunky-classic-hd</a><br /><br />Author(s): <a href=\"https://github.com/yancharkin\" target=\"_blank\">github.com/yancharkin</a><br />Repository: <a href=\"https://github.com/yancharkin/SpelunkyClassicHD\" target=\"_blank\">yancharkin/SpelunkyClassicHD</a><br />License: <a href=\"https://github.com/yancharkin/SpelunkyClassicHD/blob/master/LICENSE\" target=\"_blank\">SpelunkyÂ® User License v1.1b</a><br /><br />Original Project<hr />Website: <a href=\"https://spelunkyworld.com/original.html\" target=\"_blank\">spelunkyworld.com/original.html</a><br /><br />Source Code: <a href=\"http://www.derekyu.com/games/spelunky_1_1_src.zip\" target=\"_blank\">derekyu.com/games/spelunky_1_1_src.zip</a><br />License: <a href=\"http://www.spelunkyworld.com/files/COPYING.txt\" target=\"_blank\">SpelunkyÂ® User License v1.1b</a><br /><br />Engine<hr />Website: <a href=\"https://gamemaker.io/\" target=\"_blank\">gamemaker.io</a><br /><br />All other assets<hr />Copyright Mossmouth, LLC",
 			"disclaimer": true,
 			"width": 900,
 			"height": 547,
@@ -4762,7 +4788,8 @@
 			"disclaimer_abandoned": true,
 			"width": 640,
 			"height": 480,
-			"requiresdisabled": {
+			"requiresdisabled":
+ {
 				"webassembly": {
 					"link": "https://emupedia.net/emupedia-game-quake2/wasm.html"
 				}
@@ -4878,7 +4905,7 @@
 			"name": "Worms Armageddon",
 			"icon": "assets/images/icons/desktop/worms2",
 			"link": "https://emupedia.net/emupedia-game-worms2/armageddon/",
-			"credits": "HTML5 Port<hr />Author: Ciarán McCann<br /><br />All other assets<hr />Copyright Team17",
+			"credits": "HTML5 Port<hr />Author: CiarÃ¡n McCann<br /><br />All other assets<hr />Copyright Team17",
 			"disclaimer_abandoned": true,
 			"width": 900,
 			"height": 600,
@@ -4892,7 +4919,8 @@
 			"newtab": true,
 			"disclaimer": true,
 			"width": 960,
-			"height": 720,
+			"height":
+ 720,
 			"share": true
 		}]
 	} , {
@@ -5116,7 +5144,8 @@
 			"icon": "assets/images/icons/desktop/jetpack-joyride",
 			"link": "https://emupedia.net/emupedia-game-jetpack-joyride/",
 			"link_alternate": "https://html5.gamedistribution.com/rvvASMiM/17d66951b54e4979b0f24d14cc7423b6/",
-			"credits": "Website: <a href=\"https://www.halfbrick.com/games/jetpack-joyride\" target=\"_blank\">halfbrick.com/games/jetpack-joyride</a>",
+			"credits": "Website: <a href=\"https://www.halfbrick.com/games/jetpack-joyride\"
+ target=\"_blank\">halfbrick.com/games/jetpack-joyride</a>",
 			"width": 900,
 			"height": 547,
 			"newtab": true,
@@ -5304,7 +5333,8 @@
 			"title": "External Website",
 			"icon": "assets/images/icons/desktop/cookie-clicker",
 			"link": "https://emupedia.net/emupedia-game-cookie-clicker/",
-			"link_alternate": "https://orteil.dashnet.org/cookieclicker/",
+			"link_alternate":
+ "https://orteil.dashnet.org/cookieclicker/",
 			"credits": "Website: <a href=\"https://orteil.dashnet.org/cookieclicker/\" target=\"_blank\">orteil.dashnet.org/cookieclicker</a><br /><br />Author(s): <a href=\"https://orteil.dashnet.org/\" target=\"_blank\">Orteil</a> &amp; <a href=\"https://orteil.dashnet.org/\" target=\"_blank\">Opti</a>",
 			"width": 1090,
 			"height": 600,
@@ -5478,7 +5508,8 @@
 		"title": "Under Development",
 		"icon": "assets/images/icons/desktop/notepad",
 		"link": "https://emupedia.net/emupedia-app-notepad/",
-		"credits": "HTML5 Port<hr />Author: <a href=\"https://github.com/1j01\" target=\"_blank\">github.com/1j01</a><br />Repository: <a href=\"https://github.com/1j01/98/tree/master/programs/notepad\" target=\"_blank\">github.com/1j01/98</a><br /><br />License: \uD83D\uDE01 Permission granted from the author(s) \uD83D\uDC4D<br /><br />All other assets<hr />Copyright Microsoft",
+		"credits": "HTML5 Port<hr />Author: <a href=\"https://github.com/1j01\" target=\"_blank\">github.com/1j01</a><br />Repository: <a href=\"https://github.com/1j01/98/tree/master/programs/notepad\" target=\"_blank\">github.com/1j01/98</a><br
+ /><br />License: \uD83D\uDE01 Permission granted from the author(s) \uD83D\uDC4D<br /><br />All other assets<hr />Copyright Microsoft",
 		"disclaimer": true,
 		"width": 900,
 		"height": 480,
