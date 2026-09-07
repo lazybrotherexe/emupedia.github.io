@@ -134,7 +134,7 @@
 		"items": [{
 			"name": "Happy Tree Friends",
 			"icon": "assets/images/icons/desktop/happy-tree-friends",
-			"link": "/emupedia-media-htf/",
+			"link": "https://emupedia.net/emupedia-media-htf/",
 			"width": 900,
 			"height": 480,
 			"newtab": true,
